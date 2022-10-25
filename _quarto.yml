@@ -5,19 +5,25 @@ website:
   title: |
     Arte, Sociedade e\
     Interpretações do Brasil
+    
   navbar:
     right:
       - href: pessoas.qmd
         text: Pessoas
       - href: publicacoes.qmd
         text: Publicações
+      - href: eventos.qmd
+        text: Eventos
       - href: contato.qmd
         text: Contato
+    
+     
   page-footer: 
     left: "Copyright 2022, Eduardo Dimitrov" 
     # right: 
     #   - text: UnB
     #   - href: https://www.unb.br
+      
 
   
 format:
@@ -27,6 +33,7 @@ format:
     css: styles.css
     toc: true
     lang: pt-BR
+        
 
 
 

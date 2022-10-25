@@ -4,8 +4,10 @@ section-divs: false
 toc: false
 editor: source
 image: /images/hero_right.png
----
 
+---
+![](/images/008_Painel Brennand.jpg){fig-align="rigt"}
+---
 # Arte, sociedade e Interpretações do Brasil
 
 

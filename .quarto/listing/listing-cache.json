@@ -5,6 +5,9 @@
     ],
     "publicacoes.qmd": [
       "publicacoes/"
+    ],
+    "eventos.qmd": [
+      "eventos"
     ]
   }
 }
