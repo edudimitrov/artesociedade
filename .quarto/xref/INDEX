@@ -22,5 +22,20 @@
   },
   "blog.qmd": {
     "blog.html": "20e411a6"
+  },
+  "pessoas/eduardo.qmd": {
+    "eduardo.html": "a4bb5359"
+  },
+  "pessoas/daniela.qmd": {
+    "daniela.html": "b5ba18cb"
+  },
+  "daniela.qmd": {
+    "daniela.html": "665e4d3a"
+  },
+  "publicacoes/regionalporopcao.qmd": {
+    "regionalporopcao.html": "13686a21"
+  },
+  "pessoas.qmd": {
+    "pessoas.html": "6f11861b"
   }
 }
