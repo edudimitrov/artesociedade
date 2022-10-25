@@ -1,0 +1,10 @@
+---
+title: Eventos
+listing:
+  contents: eventos
+  type: grid
+  sort: title
+  categories: false
+  filter-ui: false
+  image-placeholder: /images/samico.png
+---
