@@ -1,8 +1,9 @@
 ---
-pagetitle: "Disciplinas"
-section-divs: false
-toc: false
-editor: source
-image: /images/hero_right.png
-
+title: Disciplinas
+author: Dimitrov, Eduardo
+subtitle: Grupo de pesquisa
+image: /images/semico.png
+category: seminarios
+abstract: |
+    Disciplinas
 ---
