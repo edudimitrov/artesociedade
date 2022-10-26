@@ -1,1 +1,1 @@
-Sitemap: https://edudimitrov.github.io/artesociedade/sitemap.xml
+Sitemap: https://github.com/edudimitrov/artesociedade/sitemap.xml
