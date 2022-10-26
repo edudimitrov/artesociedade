@@ -1,9 +1,8 @@
 ---
 title: Disciplinas
-author: Dimitrov, Eduardo
 subtitle: Grupo de pesquisa
 image: /images/samico.png
 category: seminarios
 abstract: |
-    Disciplinas
+    Disciplinas ministradas na graduaçao e pós-graduação do Departamento de Sociologia da Unb
 ---
