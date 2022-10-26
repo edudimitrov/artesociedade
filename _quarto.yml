@@ -19,10 +19,12 @@ website:
     
      
   page-footer: 
-    left: "Copyright 2022, Eduardo Dimitrov" 
-    # right: 
-    #   - text: UnB
-    #   - href: https://www.unb.br
+    left: "Copyright 2022" 
+    right: 
+      - text: UnB
+        href: https://www.unb.br
+      - text: PPGSOL
+        href: https://www.ppgsol.unb.br
       
 
   

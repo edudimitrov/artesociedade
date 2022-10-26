@@ -1,8 +1,8 @@
 ---
-title: Daniela Felix Martins Kawabe
+title: Rodrigo Macedo
 description: |
-  description of Daniela Felix Martins Kawabe
-category: professor
+  description of Rodrigo Macedo
+category: aluno_doutordo
 about:
   template: trestles
   image-width: 10em

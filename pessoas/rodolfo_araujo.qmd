@@ -1,8 +1,8 @@
 ---
-title: Daniela Felix Martins Kawabe
+title: Rodolfo Araújo
 description: |
-  description of Daniela Felix Martins Kawabe
-category: professor
+  description of Rodolfo Araújo
+category: aluno_doutorado
 about:
   template: trestles
   image-width: 10em

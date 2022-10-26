@@ -1,8 +1,8 @@
 ---
-title: Daniela Felix Martins Kawabe
+title: Ana Luiza Avellar Netto
 description: |
-  description of Daniela Felix Martins Kawabe
-category: professor
+  description of Ana Luiza Avellar Netto
+category: pesquisador
 about:
   template: trestles
   image-width: 10em

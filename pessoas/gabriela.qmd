@@ -1,8 +1,8 @@
 ---
-title: Daniela Felix Martins Kawabe
+title: Gabriela da Costa Silva
 description: |
-  description of Daniela Felix Martins Kawabe
-category: professor
+  description of Gabriela da Costa Silva
+category: aluno_mestrado
 about:
   template: trestles
   image-width: 10em

@@ -1,8 +1,8 @@
 ---
-title: Daniela Felix Martins Kawabe
+title: Eliel dos Reis Almeida
 description: |
-  description of Daniela Felix Martins Kawabe
-category: professor
+  description of Eliel dos Reis Almeida
+category: aluno_mestrado
 about:
   template: trestles
   image-width: 10em

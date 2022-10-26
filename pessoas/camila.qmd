@@ -1,8 +1,8 @@
 ---
-title: Daniela Felix Martins Kawabe
+title: Camila Oliveira Silva da Cruz
 description: |
-  description of Daniela Felix Martins Kawabe
-category: professor
+  description of Camila Oliveira Silva da Cruz
+category: aluno_graduacao
 about:
   template: trestles
   image-width: 10em

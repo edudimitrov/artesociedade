@@ -1,8 +1,8 @@
 ---
-title: Daniela Felix Martins Kawabe
+title: Evellyn Caroliny de Jesus
 description: |
-  description of Daniela Felix Martins Kawabe
-category: professor
+  description of Evellyn Caroliny de Jesus
+category: aluno_mestrado
 about:
   template: trestles
   image-width: 10em

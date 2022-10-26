@@ -1,8 +1,8 @@
 ---
-title: Daniela Felix Martins Kawabe
+title: Lui Teixeira Oliveira
 description: |
-  description of Daniela Felix Martins Kawabe
-category: professor
+  description of Lui Teixeira Oliveira
+category: aluno_graduacao
 about:
   template: trestles
   image-width: 10em
