@@ -2,7 +2,7 @@
 title: Disciplinas
 author: Dimitrov, Eduardo
 subtitle: Grupo de pesquisa
-image: /images/semico.png
+image: /images/samico.png
 category: seminarios
 abstract: |
     Disciplinas

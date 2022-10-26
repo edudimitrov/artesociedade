@@ -1,13 +1,13 @@
 {
   "listingMap": {
+    "eventos.qmd": [
+      "eventos"
+    ],
     "pessoas.qmd": [
       "pessoas"
     ],
     "publicacoes.qmd": [
       "publicacoes/"
-    ],
-    "eventos.qmd": [
-      "eventos"
     ]
   }
 }

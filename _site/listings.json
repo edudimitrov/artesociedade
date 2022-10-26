@@ -1,5 +1,12 @@
 [
   {
+    "listing": "/eventos.html",
+    "items": [
+      "/eventos/Disciplinas.html",
+      "/eventos/seminarios_2022_2023.html"
+    ]
+  },
+  {
     "listing": "/pessoas.html",
     "items": [
       "/pessoas/daniela.html",
@@ -11,9 +18,5 @@
     "items": [
       "/publicacoes/regionalporopcao.html"
     ]
-  },
-  {
-    "listing": "/eventos.html",
-    "items": []
   }
 ]
