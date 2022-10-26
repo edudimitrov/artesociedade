@@ -6,7 +6,7 @@ editor: source
 image: /images/hero_right.png
 
 ---
-![](/images/008_Painel Brennand.jpg){fig-align="rigt"}
+![](/images/008_Painel Brennand.jpg){fig-align="right"}
 ---
 # Arte, sociedade e Interpretações do Brasil
 
